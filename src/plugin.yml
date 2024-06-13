@@ -1,0 +1,9 @@
+name: goldspawnerjavassist
+version: 1.0
+main: com.feketebor.GoldIngotSpawner
+author: javassist
+api-version: 1.16
+commands:
+  setgoldspawnpoint:
+    description: Sets a gold ingot spawn point
+    usage: /setgoldspawnpoint
